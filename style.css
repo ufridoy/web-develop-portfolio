@@ -197,6 +197,10 @@ main{
     width: 500px;
     margin-left: 20px;
 }
+.footer-description{
+    font-size: 16px;
+    color: #474747;
+}
 .input-collum{
     display: flex;
     flex-direction: column;
